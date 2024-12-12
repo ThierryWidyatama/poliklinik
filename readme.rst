@@ -69,3 +69,8 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+Cara install:
+1. Buat database atas nama poliklinik, lalu import database dari file diatas
+2. Buka VSCode dan masuk ke folder config
+3. Di file config.php terdapat $config['base_url'] = 'http://localhost:2024/poliklinik/'; ubah link tersebut sesuai localhost dan nama file yang digunakan
